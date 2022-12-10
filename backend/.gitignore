@@ -1,0 +1,7 @@
+*.pyc
+__pycach__
+.venv/
+node_modules/
+package-lock.json
+.vscode
+backend/prj/db.sqlite3
